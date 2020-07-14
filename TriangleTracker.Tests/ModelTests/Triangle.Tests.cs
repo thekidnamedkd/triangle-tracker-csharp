@@ -36,6 +36,13 @@ namespace TriangleTracker.Tests
       Assert.AreEqual("This Triangle is Isosceles", testTriangle.TriangleValidator());
     }
 
+    [TestMethod]
+    public void TriangleValidator_ReceivingCorrectTrianlgeType_ScaleneTriangle()
+    {
+      Triangle testTriangle = new Triangle(5,8,4);
+      Assert.AreEqual("This Triangle is Scalene", testTriangle.TriangleValidator());
+    }
+
   }
 }
 
