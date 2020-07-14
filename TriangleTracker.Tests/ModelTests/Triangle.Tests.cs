@@ -28,6 +28,14 @@ namespace TriangleTracker.Tests
       Triangle testTriangle = new Triangle(3,3,3);
       Assert.AreEqual("This Triangle is Equilateral", testTriangle.TriangleValidator());
     }
+
+    [TestMethod]
+    public void TriangleValidator_ReceivingCorrectTrianlgeType_IsoscelesTriangle()
+    {
+      Triangle testTriangle = new Triangle(5,5,3);
+      Assert.AreEqual("This Triangle is Isosceles", testTriangle.TriangleValidator());
+    }
+
   }
 }
 
