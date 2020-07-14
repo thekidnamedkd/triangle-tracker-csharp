@@ -2,3 +2,17 @@
 /Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker.Tests/obj/Debug/netcoreapp2.2/TriangleTracker.Tests.AssemblyInfoInputs.cache
 /Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker.Tests/obj/Debug/netcoreapp2.2/TriangleTracker.Tests.AssemblyInfo.cs
 /Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker.Tests/obj/Debug/netcoreapp2.2/TriangleTracker.Tests.csproj.CoreCompileInputs.cache
+/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/TriangleTracker.Tests.deps.json
+/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/TriangleTracker.Tests.runtimeconfig.json
+/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/TriangleTracker.Tests.runtimeconfig.dev.json
+/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/TriangleTracker.Tests.dll
+/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/TriangleTracker.Tests.pdb
+/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/TriangleTracker.dll
+/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/TriangleTracker.pdb
+/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker.Tests/obj/Debug/netcoreapp2.2/TriangleTracker.Tests.csproj.CopyComplete
+/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker.Tests/obj/Debug/netcoreapp2.2/TriangleTracker.Tests.dll
+/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker.Tests/obj/Debug/netcoreapp2.2/TriangleTracker.Tests.pdb
+/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker.Tests/obj/Debug/netcoreapp2.2/TriangleTracker.Tests.genruntimeconfig.cache
