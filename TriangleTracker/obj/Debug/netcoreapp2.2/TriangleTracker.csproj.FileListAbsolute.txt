@@ -1,0 +1,12 @@
+/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker/obj/Debug/netcoreapp2.2/TriangleTracker.csprojAssemblyReference.cache
+/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker/obj/Debug/netcoreapp2.2/TriangleTracker.AssemblyInfoInputs.cache
+/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker/obj/Debug/netcoreapp2.2/TriangleTracker.AssemblyInfo.cs
+/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker/obj/Debug/netcoreapp2.2/TriangleTracker.csproj.CoreCompileInputs.cache
+/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker/bin/Debug/netcoreapp2.2/TriangleTracker.deps.json
+/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker/bin/Debug/netcoreapp2.2/TriangleTracker.runtimeconfig.json
+/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker/bin/Debug/netcoreapp2.2/TriangleTracker.runtimeconfig.dev.json
+/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker/bin/Debug/netcoreapp2.2/TriangleTracker.dll
+/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker/bin/Debug/netcoreapp2.2/TriangleTracker.pdb
+/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker/obj/Debug/netcoreapp2.2/TriangleTracker.dll
+/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker/obj/Debug/netcoreapp2.2/TriangleTracker.pdb
+/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker/obj/Debug/netcoreapp2.2/TriangleTracker.genruntimeconfig.cache
