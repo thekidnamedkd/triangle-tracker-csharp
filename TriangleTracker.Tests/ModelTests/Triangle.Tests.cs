@@ -19,7 +19,7 @@ namespace TriangleTracker.Tests
     public void TriangleValidator_ReceivingCorrectTrianlgeType_NotATriangle()
     {
       Triangle testTriangle = new Triangle(1,2,5);
-      Assert.AreEqual("Not a triangle!", testTriangle.TriangleValidator());
+      Assert.AreEqual("This is not a triangle!", testTriangle.TriangleValidator());
     }
   }
 }
