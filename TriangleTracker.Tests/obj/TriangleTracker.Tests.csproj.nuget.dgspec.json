@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker.Tests/TriangleTracker.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker.Tests/TriangleTracker.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker.Tests/TriangleTracker.Tests.csproj",
+        "projectName": "TriangleTracker.Tests",
+        "projectPath": "/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker.Tests/TriangleTracker.Tests.csproj",
+        "packagesPath": "/Users/thekidnamedkd/.nuget/packages/",
+        "outputPath": "/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/thekidnamedkd/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker/TriangleTracker.csproj": {
+                "projectPath": "/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker/TriangleTracker.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker/TriangleTracker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker/TriangleTracker.csproj",
+        "projectName": "TriangleTracker",
+        "projectPath": "/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker/TriangleTracker.csproj",
+        "packagesPath": "/Users/thekidnamedkd/.nuget/packages/",
+        "outputPath": "/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/thekidnamedkd/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

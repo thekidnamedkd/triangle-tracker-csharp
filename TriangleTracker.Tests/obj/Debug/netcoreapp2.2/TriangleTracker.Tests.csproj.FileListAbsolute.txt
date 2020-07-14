@@ -1,0 +1,4 @@
+/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker.Tests/obj/Debug/netcoreapp2.2/TriangleTracker.Tests.csprojAssemblyReference.cache
+/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker.Tests/obj/Debug/netcoreapp2.2/TriangleTracker.Tests.AssemblyInfoInputs.cache
+/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker.Tests/obj/Debug/netcoreapp2.2/TriangleTracker.Tests.AssemblyInfo.cs
+/Users/thekidnamedkd/Desktop/triangle-tracker-csharp/TriangleTracker.Tests/obj/Debug/netcoreapp2.2/TriangleTracker.Tests.csproj.CoreCompileInputs.cache
