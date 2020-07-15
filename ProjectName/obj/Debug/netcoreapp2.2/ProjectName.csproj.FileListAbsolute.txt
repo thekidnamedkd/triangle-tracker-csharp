@@ -1,9 +1,0 @@
-/Users/thekidnamedkd/Desktop/C#-template-v1/ProjectName/bin/Debug/netcoreapp2.2/ProjectName.deps.json
-/Users/thekidnamedkd/Desktop/C#-template-v1/ProjectName/bin/Debug/netcoreapp2.2/ProjectName.dll
-/Users/thekidnamedkd/Desktop/C#-template-v1/ProjectName/bin/Debug/netcoreapp2.2/ProjectName.pdb
-/Users/thekidnamedkd/Desktop/C#-template-v1/ProjectName/obj/Debug/netcoreapp2.2/ProjectName.csprojAssemblyReference.cache
-/Users/thekidnamedkd/Desktop/C#-template-v1/ProjectName/obj/Debug/netcoreapp2.2/ProjectName.AssemblyInfoInputs.cache
-/Users/thekidnamedkd/Desktop/C#-template-v1/ProjectName/obj/Debug/netcoreapp2.2/ProjectName.AssemblyInfo.cs
-/Users/thekidnamedkd/Desktop/C#-template-v1/ProjectName/obj/Debug/netcoreapp2.2/ProjectName.csproj.CoreCompileInputs.cache
-/Users/thekidnamedkd/Desktop/C#-template-v1/ProjectName/obj/Debug/netcoreapp2.2/ProjectName.dll
-/Users/thekidnamedkd/Desktop/C#-template-v1/ProjectName/obj/Debug/netcoreapp2.2/ProjectName.pdb
